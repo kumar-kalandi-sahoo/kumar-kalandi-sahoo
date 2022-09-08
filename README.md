@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumar-kalandi-sahoo
+- 👋 Hi, I’m @kumar kalandi sahoo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning CSEAI
 
